@@ -1,6 +1,6 @@
 # 🌟 Vemula Harshith - Developer Portfolio
 
-![Portfolio Preview](portfolio-screenshot.jpg) *[Replace with your actual screenshot]*
+![Portfolio Preview](portfolio-screenshot.png) *[Replace with your actual screenshot]*
 
 ## 🚀 Live Demo
 [View Live Portfolio](https://harshith-portfolio.netlify.app)
