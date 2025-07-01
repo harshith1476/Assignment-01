@@ -3,7 +3,7 @@
 ![Portfolio Preview](portfolio-screenshot.png) 
 
 ## 🚀 Live Demo
-[View Live Portfolio](https://harshith-portfolio.netlify.app)
+[View Live Portfolio](https://portfolio-harshith.netlify.app/)
 
 ## 👨‍💻 About Me
 I'm **Vemula Harshith**, a passionate 3rd-year Computer Science student at Vignan University specializing in full-stack development and AI solutions. This neon-themed portfolio showcases my technical skills, projects, and achievements with a futuristic cyberpunk aesthetic.
