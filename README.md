@@ -1,6 +1,6 @@
 # 🚀 Harshith's Developer Portfolio
 
-![Portfolio Preview]("") *[Add screenshot of your portfolio]*
+[![Portfolio Preview]("") *[Add screenshot of your portfolio]*](https://portfolio-harshith.netlify.app/)
 
 ## 👋 Introduction
 Welcome to my professional portfolio! I'm **Vemula Harshith**, a passionate 3rd-year Computer Science student at Vignan University specializing in web technologies and AI solutions. This portfolio showcases my skills, projects, and achievements.
